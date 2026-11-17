@@ -1,0 +1,3 @@
+init,ll_media,ll_min,ll_max,iter_media,ARI_medio
+kmeans,-30.802,-31.035,-30.652,13.8,0.747
+random_from_data,-31.088,-31.392,-30.704,28.8,0.607

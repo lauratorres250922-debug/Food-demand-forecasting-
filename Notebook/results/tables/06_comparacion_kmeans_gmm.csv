@@ -1,0 +1,3 @@
+método,silueta,davies_bouldin,ARI_semillas_media,ARI_mitades
+K-means (k=10),0.186,1.761,0.635,0.2
+"GMM (diag, k=15)",0.212,1.698,0.531,0.229
